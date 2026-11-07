@@ -1,0 +1,12 @@
+name = "biomes-o-plenty"
+filename = "BiomesOPlenty-forge-26.3-26.3.0.0.16.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/HXF82T3G/versions/rGqDYMqM/BiomesOPlenty-forge-26.3-26.3.0.0.16.jar"
+hash-format = "sha256"
+hash = "528fc66c9d70958b9e0476160f9c0f6d833dd297d518a4ef511ac08b10f40a49"
+
+[update.modrinth]
+mod-id = "HXF82T3G"
+version = "rGqDYMqM"

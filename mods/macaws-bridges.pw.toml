@@ -1,0 +1,12 @@
+name = "macaws-bridges"
+filename = "mcw-bridges-3.1.2-mc26.3forge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/GURcjz8O/versions/oUabEHIq/mcw-bridges-3.1.2-mc26.3forge.jar"
+hash-format = "sha256"
+hash = "621d514534ad1d1cbe5f2970222fc933b62ef999535779d05ffcb201edf60a4d"
+
+[update.modrinth]
+mod-id = "GURcjz8O"
+version = "oUabEHIq"

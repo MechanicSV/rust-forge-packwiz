@@ -1,0 +1,12 @@
+name = "Rust Forge"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "792013cae93790b712b171daa56b237dbea2332feeb890566dd4955a7506b7e0"
+
+[versions]
+minecraft = "26.3"
+forge = "66.1.5"

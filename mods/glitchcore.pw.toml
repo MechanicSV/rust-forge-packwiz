@@ -1,0 +1,12 @@
+name = "glitchcore"
+filename = "GlitchCore-forge-26.3-26.3.0.0.5.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/s3dmwKy5/versions/SKPPEwnV/GlitchCore-forge-26.3-26.3.0.0.5.jar"
+hash-format = "sha256"
+hash = "3e86ed4fc31bb12d82a41e5817cf05f0481909b67fa4e2cb49ff3c18a3b7d42d"
+
+[update.modrinth]
+mod-id = "s3dmwKy5"
+version = "SKPPEwnV"

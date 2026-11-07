@@ -1,0 +1,12 @@
+name = "macaws-windows"
+filename = "mcw-windows-2.4.2-mc26.3forge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/C7I0BCni/versions/l9XasDfZ/mcw-windows-2.4.2-mc26.3forge.jar"
+hash-format = "sha256"
+hash = "dde2e148d067c5fe1a87994693e4717a9c0df0a88341f2306c4eaa5ec5889e30"
+
+[update.modrinth]
+mod-id = "C7I0BCni"
+version = "l9XasDfZ"

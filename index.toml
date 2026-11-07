@@ -1,0 +1,46 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/biomes-o-plenty.pw.toml"
+hash = "57941133d32f3c0b2da5d02cc266621b618255ffb4531a465d1019671671bf54"
+metafile = true
+
+[[files]]
+file = "mods/glitchcore.pw.toml"
+hash = "80be38ceb6f5c8541173b0ff649654fba077d1a3a785ff93a203ed478945b479"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
+hash = "8e10462711063d952917d38667da3659d2ee53a1ac5d5e993e33a77af326a6fe"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.pw.toml"
+hash = "27802d4511db801d9a931b111011669bf241817111872f03f444d5936dc468e1"
+metafile = true
+
+[[files]]
+file = "mods/macaws-bridges.pw.toml"
+hash = "2c6c9d0e8f65c17a9edbf4a7848c7ece30c9b73f42022df38d187dccafeee330"
+metafile = true
+
+[[files]]
+file = "mods/macaws-windows.pw.toml"
+hash = "5a8af25e8adc287996e78b8f58325faf312223b51e7341c311af9e82fba602ab"
+metafile = true
+
+[[files]]
+file = "mods/macaws-lights-and-lamps.pw.toml"
+hash = "52a46ed357ea2d5151dd3a9fee4f782aecf7b9cd70d2d7ce6838e35e15ba6ac7"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "f1698e3ec82ab9a38f7f32f59e6baeb86f4feefda81408df18c9a22b3abdb15e"
+metafile = true
+
+[[files]]
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "9ca82e9e1ff033ee504e3dd6d91fe66356e4134d9feece365fb5433459dff4ec"
+metafile = true

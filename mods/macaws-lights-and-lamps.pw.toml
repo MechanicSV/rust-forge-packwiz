@@ -1,0 +1,12 @@
+name = "macaws-lights-and-lamps"
+filename = "mcw-lights-1.1.5-mc26.3forge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/w4an97C2/versions/fVbGfDgk/mcw-lights-1.1.5-mc26.3forge.jar"
+hash-format = "sha256"
+hash = "94e8bb24a3a1e42da60dd9f449d306f4be2959be4b46a5b948bfb98b65299379"
+
+[update.modrinth]
+mod-id = "w4an97C2"
+version = "fVbGfDgk"
